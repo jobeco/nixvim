@@ -1,1 +1,1 @@
-NixVim Config
+# My NixVim Config
