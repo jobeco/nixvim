@@ -13,10 +13,6 @@
     };
   };
 
-  plugins.copilot-lualine = {
-    enable = true;
-  };
-
   extraConfigLua = ''
     require("copilot").setup({
       suggestion = { enabled = false },
